@@ -9,7 +9,7 @@ Editing readme file for homework 1
 
 ### Create a ordered list
 1. First item
-2. ==Second item==
+2. Second item
 3. Third item
 
 ### Create unordered list
@@ -28,4 +28,6 @@ Editing readme file for homework 1
 - [x] Task1
 - [ ] Task2
 - [ ] Task3
+
+==Highlight some words==.
 
