@@ -29,5 +29,5 @@ Editing readme file for homework 1
 - [ ] Task2
 - [ ] Task3
 
-==Highlight some words==.
+<mark>Highlight some words. Seems like the == does not work</mark>.
 
